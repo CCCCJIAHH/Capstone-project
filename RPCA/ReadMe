@@ -1,4 +1,6 @@
 This is the RPCA file. 
 The program is done on Jupyternotebook using Python3.7
+
 The "face extraction" is used to extract the face box in a picture. Please install MTCNN in your environment using " pip instaill mtcnn" 
-In the "RPCA" file, there are two choice. First is the single image RPCA. It can be used to remove small artifacts like blotches. Second is the multi-image RPCA. It can be used in background extraction or removing large noise.
+
+In the "RPCA" file, there are two choice. First is the single image RPCA. It can be used to remove small artifacts like blotches. Second is the multi-image RPCA. It can be used in background extraction or removing large noise. You need to make sure the iamges are in the same size.
